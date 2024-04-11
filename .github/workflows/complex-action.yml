@@ -1,6 +1,6 @@
 name: Complex
 
-on push
+on: push
 
 jobs:
   ubuntu:
